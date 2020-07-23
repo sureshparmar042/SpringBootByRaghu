@@ -9,6 +9,7 @@ public class StudentRunner implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Welcome To GitHub...");
+		System.out.println("Welcome To SpringBoot GitHub...");
 
 	}
 
